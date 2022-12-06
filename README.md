@@ -6,7 +6,7 @@
 </div>
 
 <div id="linkedin" align="center">
-  <a href="https://www.linkedin.com/in/piotr-%C5%82%C4%99cicki-07191421a/">
+  <a href="https://www.linkedin.com/in/plecicki/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -18,7 +18,7 @@
 </div>
 
 ## 🚀 About Me
-I'm a Junior Java Developer and I'm close to completing course "Kodilla - Java Developer Plus". </br>
+I'm a Junior Java Developer and I completed course "Kodilla - Java Developer Plus". </br>
 Before I started programming I had studied electronics and telecommunications at a Military University of Technology in Warsaw. </br>
 </br>
 My programming passion started during studies, when I programmed first time. </br>
