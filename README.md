@@ -18,14 +18,6 @@
   </h3>
 </div>
 
-## 🚀 About Me
-I'm a Junior Java Developer with around 6 months commercial job experience and I completed course "Kodilla - Java Developer Plus". </br>
-Before I started programming I had studied electronics and telecommunications at a Military University of Technology in Warsaw. </br>
-</br>
-My programming passion started during studies, when I programmed first time. </br>
-I had opportunity to program in a lot of technologies like microcontrollers, FPGA boards, mobile and desktop applications. </br>
-After studies I chose one and decided to become a Java Developer. </br>
-
 ## 👨🏻‍💻 Java projects
 | Name | Technologies & Description | GitHub Link |
 | :------------- | :------- | :------------------------- |
